@@ -22,9 +22,7 @@ Task & Activity tracking
 ## Tools
 Figma
 ## 🎥 Demo
-_Add video link here_
-
----
+https://drive.google.com/file/d/1R_w9jgiUrCx-wgTD_YC97CUxGNsND1BD/view?usp=drivesdk
 ## Outcome
 Better lead visibility  
 Reduced missed follow-ups  
